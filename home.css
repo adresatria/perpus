@@ -1,0 +1,20 @@
+html,body{
+    height:85%;
+    width: 100%;
+}
+
+.container{
+
+justify-content: center;
+padding-top: 20px;
+min-height:80%;
+position:relative;
+}
+
+#footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
